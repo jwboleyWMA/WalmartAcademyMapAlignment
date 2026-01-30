@@ -17,7 +17,7 @@
 
 ## Usage
 
-Visit the live map: [View Map](https://[username].github.io/WalmartAcademyMapAlignment/)
+Visit the live map: **[https://jwboleywma.github.io/WalmartAcademyMapAlignment/](https://jwboleywma.github.io/WalmartAcademyMapAlignment/)**
 
 Or open `index.html` in any web browser.
 
